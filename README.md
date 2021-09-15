@@ -1,1 +1,0 @@
-# Asus-A412FL-Hackintosh-with-Opencore
